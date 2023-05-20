@@ -1,0 +1,27 @@
+h1{
+    color: goldenrod;
+} 
+
+body{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-right: 4px;
+}
+
+button:hover{
+    background-color: yellow;
+    height: 30px;
+}
